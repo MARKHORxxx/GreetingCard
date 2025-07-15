@@ -35,9 +35,7 @@ You can personalize the card message or style by editing the content inside:
 - HTML5
 - CSS3 (Flexbox, Pseudo-elements, Transitions)
 
-## 📸 Preview
 
-![Greeting Card Preview](preview.png) *(Add a screenshot if desired)*
 
 ## 🧠 Learning Purpose
 
